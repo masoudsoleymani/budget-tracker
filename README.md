@@ -1,6 +1,6 @@
 # Speechly Budget Tracker
 
-This project is a Expense Budget Tracker that has voice capabilities using Speechly. 
+This project is a Expense Budget Tracker that has voice capabilities powered by Speechly. 
 
 ## Features
 - Voice interaction;
