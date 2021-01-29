@@ -16,7 +16,7 @@ This project is a Expense Budget Tracker that has voice capabilities powered by 
 - React Hooks
 
 ## Status
-- done
+- fulfilled
 
 # Runs the app in the development mode 
 
