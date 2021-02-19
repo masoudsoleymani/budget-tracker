@@ -12,10 +12,9 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
 - Active & completed tasks archive view;
 
 ## Technologies
-- HTML5
-- CSS3
-- Javascript
-- ES6
+- Docker
+- eslint
+- Typescript
 - React Hooks
 
 ## Status
@@ -23,11 +22,14 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
 
 # Runs the app in the development mode 
 
- `yarn install`
+ `yarn install` for install dependencies
 
- `yarn start`
+ `yarn start` for start 
 
-Open http://localhost:3000 to view it in the browser.
+ `yarn build`for bulid locally
+
+ `yarn test` for test
+
 
 
 # Running with Docker
