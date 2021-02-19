@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-anonymous-default-export
 export default (date) => {
   const d = new Date(date);
   let month = `${d.getMonth() + 1}`;
