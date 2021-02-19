@@ -1,6 +1,6 @@
 # Speechly Budget Tracker
 
-This project is a Expense Budget Tracker that has voice capabilities powered by Speechly. 
+This project is a Budget Tracker that has voice intraction capabilities (powered by Speechly)
 
 Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://masoudsoleymani.github.io/budget-tracker)
 
