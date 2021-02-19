@@ -20,26 +20,25 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
 ## Status
 - fulfilled
 
-# Runs the app in the development mode 
+## Run in the development mode
 
- `yarn install` for install dependencies
+  ### Prerequisites
+  - [Node.js](https://nodejs.org/en/)
+  - [yarn](https://classic.yarnpkg.com/en/docs/install/)
+  - [Docker](https://www.docker.com/)
 
- `yarn start` for start 
+  ### Installation
+  - clone the repo
+  - `yarn` for dependencies installation
 
- `yarn build`for bulid locally
+  ### Running
+  - `yarn start` for webpack-dev-server
+  - `yarn build` for production
 
- `yarn test` for test
-
-
-
-# Running with Docker
-  * Build: `docker build -t stopwatch .`
-  * Run: `docker run -it -p 3000:3000 stopwatch`
+  ### Running with Docker
+  * Build: `docker build -t budget-tracker .`
+  * Run: `docker run -it -p 3000:3000 budget-tracker`
   * Open [http://localhost:3000](http://localhost:3000)
-
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
 
 # Screen
 
