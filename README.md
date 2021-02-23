@@ -40,16 +40,6 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
   * Run: `docker run -it -p 3000:3000 budget-tracker`
   * Open [http://localhost:3000](http://localhost:3000)
 
-  ### Running with Docker
-
-  #### Configuration
-  `cp .env.example .env` and set the variables:
-   .env: `PUBLIC_URL = /pages/tblx/welcome`
-   .env.local: `PUBLIC_URL = /`
-
-  * Build: `docker build -t tblx/welcome:latest .`
-  * Run: `docker run -d -p 3001:3000 tblx/welcome:latest`
-  * Open [http://localhost:3001](http://localhost:3001)
 
 # Screen
 
