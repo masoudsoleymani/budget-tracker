@@ -44,3 +44,8 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
 # Screen
 
 ![](src/assets/ScreenShot.jpg)
+
+
+## License
+
+This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 
