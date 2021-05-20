@@ -1,4 +1,4 @@
-# Speechly Budget Tracker
+# Budget-Tracker
 
 A static Budget Tracker that has voice capabilities (powered by Speechly)
 
@@ -19,7 +19,7 @@ Published at: [https://masoudsoleymani.github.io/budget-tracker](https://masouds
   - `yarn` for dependencies installation
 
   ### Running
-  - `yarn start` for webpack-dev-server
+  - `yarn start` 
   - `yarn build` for production
 
   ### Running with Docker
@@ -32,12 +32,6 @@ Published at: [https://masoudsoleymani.github.io/budget-tracker](https://masouds
 - State Management;
 - Material UI;
 - Active & completed tasks archive view;
-
-## Technologies
-- Docker
-- eslint
-- Typescript
-- React Hooks
 
 ## Screen
 
