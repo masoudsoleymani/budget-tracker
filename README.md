@@ -1,26 +1,13 @@
 # Speechly Budget Tracker
 
-This project is a Budget Tracker that has voice capabilities (powered by Speechly)
+A static Budget Tracker that has voice capabilities (powered by Speechly)
 
 Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://masoudsoleymani.github.io/budget-tracker)
-
-
-## Features
-- Voice interaction;
-- State Management;
-- Material UI;
-- Active & completed tasks archive view;
-
-## Technologies
-- Docker
-- eslint
-- Typescript
-- React Hooks
 
 ## Status
 - fulfilled
 
-## Run in the development mode
+## Development 
 
   ### Prerequisites
   - [Node.js](https://nodejs.org/en/)
@@ -40,11 +27,21 @@ Page is published at [https://masoudsoleymani.github.io/budget-tracker](https://
   * Run: `docker run -it -p 3000:3000 budget-tracker`
   * Open [http://localhost:3000](http://localhost:3000)
 
+## Features
+- Voice interaction;
+- State Management;
+- Material UI;
+- Active & completed tasks archive view;
 
-# Screen
+## Technologies
+- Docker
+- eslint
+- Typescript
+- React Hooks
+
+## Screen
 
 ![](src/assets/ScreenShot.jpg)
-
 
 ## License
 
